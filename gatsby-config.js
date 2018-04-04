@@ -1,19 +1,6 @@
-const config = ("./meta/config")
-const pathPrefix = config.pathPrefix === "/" ? "" : config.pathPrefix
-
 module.exports = {
   siteMetadata: {
-    title: config.siteTitle,
-    siteUrl: config.siteUrl,
-    rssMetadata: {
-      site_url: config.siteUrl + pathPrefix,
-      feed_url: config.siteUrl + pathPrefix + config.siteRss,
-      title: config.siteTitle,
-      description: config.siteDescription,
-      image_url: `${config.siteUrl + pathPrefix}/icons/icon-512x512.png`,
-      author: config.userName,
-      copyright: config.copyright
-    }
+    title: 'Gatsby Netlify'
   },
   plugins: [
     'gatsby-plugin-react-helmet',
