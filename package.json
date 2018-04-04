@@ -1,24 +1,24 @@
 {
-  "name": "gatsby-starter-netlify-cms",
-  "description": "Example Gatsby, and Netlify CMS project",
-  "version": "1.1.1",
-  "author": "Austin Green",
+  "name": "gatsby-netlify",
+  "description": "Gatsby, and Netlify CMS project",
+  "version": "1.0.0",
+  "author": "Rodrigo Mantica",
   "dependencies": {
-    "bulma": "^0.6.0",
-    "gatsby": "^1.9.213",
-    "gatsby-link": "^1.6.37",
-    "gatsby-plugin-netlify-cms": "^1.0.9",
-    "gatsby-plugin-react-helmet": "^2.0.5",
-    "gatsby-plugin-sass": "^1.0.17",
+    "bulma": "^0.6.2",
+    "gatsby": "^1.9.246",
+    "gatsby-link": "^1.6.40",
+    "gatsby-plugin-netlify-cms": "^1.0.12",
+    "gatsby-plugin-react-helmet": "^2.0.10",
+    "gatsby-plugin-sass": "^1.0.25",
     "gatsby-plugin-sharp": "^1.6.34",
     "gatsby-remark-images": "^1.5.50",
-    "gatsby-source-filesystem": "^1.5.23",
-    "gatsby-transformer-remark": "^1.7.33",
-    "gatsby-transformer-sharp": "^1.6.21",
+    "gatsby-source-filesystem": "^1.5.28",
+    "gatsby-transformer-remark": "^1.7.39",
+    "gatsby-transformer-sharp": "^1.6.22",
     "lodash": "^4.17.5",
     "lodash-webpack-plugin": "^0.11.4",
-    "prop-types": "^15.6.0",
-    "react": "^16.2.0",
+    "prop-types": "^15.6.1",
+    "react": "^16.3.1",
     "react-helmet": "^5.2.0"
   },
   "keywords": [
@@ -35,6 +35,6 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "devDependencies": {
-    "prettier": "^1.7.4"
+    "prettier": "^1.11.1"
   }
 }
