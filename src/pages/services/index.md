@@ -1,7 +1,7 @@
 ---
 templateKey: service-page
 title: Innovative Team of Engineers
-image: /img/jumbotron.jpg
+image: /img/code.jpg
 heading: We love what we do
 description: >-
   We take great pleasure in helping our costumers build great digital
