@@ -45,48 +45,55 @@ main:
     alt: A close-up of two mobile phones.
     image: /img/mob_both.png
   image2:
-    alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    alt: OOQIA welcome image.
+    image: /img/welcome_img.jpg
   image3:
-    alt: Coffee beans
-    image: /img/products-grid1.jpg
+    alt: Graco perrito.
+    image: /img/graco.jpg
 testimonials:
-  - author: Elisabeth Kaurismäki
+  - author: 'Jaime Flores, Chief Creative Officer - Jotalab, Spain - www.jotalab.com'
     quote: >-
-      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
-  - author: Philipp Trommler
+      All projects we have done with OOQIA reflect personality and originality,
+      they are just bursting with energy. This development team has the ability
+      to identify the essence of each project and realize a great idea in a
+      clean and effective way. Undoubtedly, all projects that pass through their
+      hands would be benefited from her talent, professionalism and requirement.
+  - author: 'David Pond, CTO - Wandering, Israel - www.angel.co/wandering'
     quote: >-
-      Kaldi is the place to go if you want the best quality coffee. I love their
-      stance on empowering farmers and transparency.
+      All projects we have done with OOQIA reflect personality and originality,
+      they are just bursting with energy. This development team has the ability
+      to identify the essence of each project and realize a great idea in a
+      clean and effective way. Undoubtedly, all projects that pass through their
+      hands would be benefited from her talent, professionalism and
+      requirement.  Jaime Flores, Chief Creative Officer - Jotalab, Spain -
+      www.jotalab.com  OOQIA has the best development team I have encountered.
+      They are professional, skillful, responsible, hard working and on top of
+      all of that they are super fun to work with!
 full_image: /img/products-full-width.jpg
 pricing:
-  heading: Monthly subscriptions
-  description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
-    monthly subscription plans to receive great coffee at your doorstep each
-    month. Contact us about more details and payment info.
+  heading: Great Benefits
+  description: We make it easy to make great coding a part of your life.
   plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
+    - description: Learn new skills on the job.
       items:
-        - 3 lbs of coffee per month
-        - Green or roasted beans"
-        - One or two varieties of beans"
-      plan: Small
-      price: '50'
-    - description: 'Great for avid drinkers, java-loving couples and bigger crowds'
+        - Data science with Python
+        - Enterprise software with .NET
+        - Web development with Node.js
+      plan: "\tPROFESSIONAL DEVELOPMENT"
+      price: '0'
+    - description: 'Your lunch meals, prepped with love everyday.'
       items:
-        - 6 lbs of coffee per month
-        - Green or roasted beans
-        - Up to 4 different varieties of beans
-      plan: Big
-      price: '80'
-    - description: Want a few tiny batches from different varieties? Try our custom plan
+        - We cater to your dietary needs
+        - Meals are freshly made
+        - Payment can be discounted from paycheck
+      plan: "\tMEALS"
+      price: '1'
+    - description: Participate in all kinds of games and activites.
       items:
-        - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
-      plan: Custom
+        - Table football
+        - Ping-pong
+        - Soccer subscriptions
+      plan: GAMES
       price: '??'
 ---
 
