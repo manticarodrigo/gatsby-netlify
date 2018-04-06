@@ -1,33 +1,32 @@
 ---
-templateKey: 'blog-post'
-title: 'Just in: small batch of Jamaican Blue Mountain in store next week'
-date: 2017-01-04T15:04:10.000Z
+templateKey: blog-post
+title: Seize the benefits of team diversity
+date: 2018-01-17T00:00:00-06:00
 description: >-
-  We’re proud to announce that we’ll be offering a small batch of Jamaica Blue
-  Mountain coffee beans in our store next week.
+  Diversity in an ongoing topic for all industries; therefore, it needs a deeper
+  understanding of the impact within Agencies. In a globalized world, diversity
+  in the workforce is necessary to create a competitive economy, and as
+  communities grow, it's important to harness everyone's talent. A diverse
+  workforce combines professionals from different backgrounds, experiences and
+  cultures that together breed more innovative, creative and productive teams.
 tags:
-  - jamaica
-  - green beans
-  - flavor
-  - tasting
+  - ooqia
+  - diversity
+  - team
 ---
+Diversity in an ongoing topic for all industries; therefore, it needs a deeper understanding of the impact within Agencies. In a globalized world, diversity in the workforce is necessary to create a competitive economy, and as communities grow, it's important to harness everyone's talent. A diverse workforce combines professionals from different backgrounds, experiences and cultures that together breed more innovative, creative and productive teams.
 
-We expect the shipment of a limited quantity of green beans next Monday. We’ll be offering the roasted beans from Tuesday, but quantities are limited, so be quick.
+## COMMITMENTS TO IMPROVE DIVERSITY
 
-Blue Mountain Peak is the highest mountain in Jamaica and one of the highest peaks in the Caribbean at 7,402 ft. It is the home of Blue Mountain coffee and their famous tours. It is located on the border of the Portland and Saint Thomas parishes of Jamaica.
+Agencies have key strategic partners like Google to support them with trainings, event participation, and brand exposure. For Google, their employees come from different backgrounds and experiences and do their best work, because their differences are embraced in an inclusive environment. Google's four commitments to improve diversity and inclusion are:
 
-## A little history
+> * Share progress toward a more representative company
+> * Expand access to careers in technology
+> * Strengthen the community outreach
+> * Broaden supplier's network and create inclusive products
 
-The Blue Mountains are considered by many to be a hiker's and camper's paradise. The traditional Blue Mountain trek is a 7-mile hike to the peak and consists of a 3,000-foot increase in elevation. Jamaicans prefer to reach the peak at sunrise, thus the 3–4 hour hike is usually undertaken in darkness. Since the sky is usually very clear in the mornings, Cuba can be seen in the distance.
+These commitments can help any Agency that is constantly improving their team diversity and that also is expanding to new market segments.
 
->Some of the plants found on the Blue Mountain cannot be found anywhere else in the world and they are often of a dwarfed sort.
+## AGENCIES AND HISPANIC MARKET IN THE U.S.
 
-This is mainly due to the cold climate which inhibits growth. The small coffee farming communities of Claverty Cottage and Hagley Gap are located near the peak.
-
-## What you need to know before trying
-
-Jamaican Blue Mountain Coffee or Jamaica Blue Mountain Coffee is a classification of coffee grown in the Blue Mountains of Jamaica. The best lots of Blue Mountain coffee are noted for their mild flavor and lack of bitterness. Over the past few decades, this coffee has developed a reputation that has made it one of the most expensive and sought-after coffees in the world. Over 80% of all Jamaican Blue Mountain Coffee is exported to Japan. In addition to its use for brewed coffee, the beans are the flavor base of Tia Maria coffee liqueur.
-
-Jamaican Blue Mountain Coffee is a globally protected certification mark, meaning only coffee certified by the Coffee Industry Board of Jamaica can be labeled as such. It comes from a recognized growing region in the Blue Mountain region of Jamaica, and its cultivation is monitored by the Coffee Industry Board of Jamaica.
-
-The Blue Mountains are generally located between Kingston to the south and Port Antonio to the north. Rising 7,402 ft, they are some of the highest mountains in the Caribbean. The climate of the region is cool and misty with high rainfall. The soil is rich, with excellent drainage. This combination of climate and soil is considered ideal for coffee.
+In the U.S. Agencies, as shown in the heatmap below, are primarily located in California (255), Florida (186) and New York (169). These states have a high Hispanic population density and also drive much of the U.S. population growth. California (15.3 million), Texas (10.9 million) and Florida (5.1 million) made up 54% of the U.S. Hispanic population in 2016.
