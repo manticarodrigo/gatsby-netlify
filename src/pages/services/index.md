@@ -1,14 +1,14 @@
 ---
-templateKey: 'service-page'
-path: /services
-title: Our Coffee
+templateKey: service-page
+title: Innovative Team of Engineers
 image: /img/jumbotron.jpg
-heading: What we offer
+heading: We love what we do
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  We take great pleasure in helping our costumers build great digital
+  experiences. Every project we take great pride in helping good ideas come to
+  life. Dedication, innovation and commitment are our formula. Making use of new
+  technologies and the ingenuity of an excellent team of engineers we achieve
+  the satisfaction of our customers.
 intro:
   blurbs:
     - image: /img/coffee.png
@@ -38,12 +38,13 @@ intro:
         space where you can hang out with fellow coffee lovers and learn about
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
-  heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+  heading: We love what we do
+  description: >-
+    We take great pleasure in helping our costumers build great digital
+    experiences. Every project we take great pride in helping good ideas come to
+    life. Dedication, innovation and commitment are our formula. Making use of
+    new technologies and the ingenuity of an excellent team of engineers we
+    achieve the satisfaction of our customers.
 main:
   heading: Great coffee with no compromises
   description: >
@@ -99,3 +100,4 @@ pricing:
       plan: Custom
       price: '??'
 ---
+
