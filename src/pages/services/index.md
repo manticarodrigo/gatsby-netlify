@@ -1,7 +1,7 @@
 ---
 templateKey: service-page
 title: Innovative Team of Engineers
-image: /img/code.jpg
+image: /img/services-header.jpg
 heading: We love what we do
 description: >-
   We take great pleasure in helping our costumers build great digital
@@ -15,26 +15,18 @@ intro:
       text: >-
         OOQIA helps you develop software based solutions that generate value
         with greater user loyalty.
-    - image: /img/coffee-gear.png
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/tutorials.png
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/meeting-space.png
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+    - image: /img/thumbs-up.svg
+      text: >-
+        Focused on facilitating and improving our customers competitiveness and
+        time-to-market goals.
+    - image: /img/pencil-alt.svg
+      text: >-
+        We design in relation-to-execution, while utilizing all the cutting edge
+        capabilities of modern technology.
+    - image: /img/mobile-alt.svg
+      text: >-
+        For the development process we apply an iterative process allowing for a
+        more flexible and efficient workflow.
   heading: We love what we do
   description: >-
     We take great pleasure in helping our costumers build great digital
@@ -43,15 +35,15 @@ intro:
     new technologies and the ingenuity of an excellent team of engineers we
     achieve the satisfaction of our customers.
 main:
-  heading: Great coffee with no compromises
-  description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+  heading: ' Do you want to create great applications?'
+  description: >-
+    Be part of our team and create the next generation of solutions for the web
+    and mobile devices using the last technologies from the coding universe.
+    Come and create solutions with a great level of quality fulfilling the
+    higher standards. Don’t be shy, you could build the next viral application.
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    alt: A close-up of two mobile phones.
+    image: /img/mob_both.png
   image2:
     alt: A green cup of a coffee on a wooden table
     image: /img/products-grid2.jpg
