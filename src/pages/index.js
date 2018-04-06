@@ -22,7 +22,7 @@ export default class IndexPage extends React.Component {
                 key={post.id}
               >
                 <p>
-                  <Link style={{color:'#ef5a24'}} to={post.fields.slug}>
+                  <Link to={post.fields.slug}>
                     {post.frontmatter.title}
                   </Link>
                   <span> &bull; </span>
