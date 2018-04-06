@@ -1,19 +1,19 @@
 ---
-templateKey: 'about-page'
-path: /about
-title: About our values
+templateKey: about-page
+title: About Our Company
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+### MISSION
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+OOQIA provides technology outsourcing services to world leader industries and entrepreneurs.
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+### HISTORY
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+ince 2016 OOQIA started reducing the friction that often times hinders the success of DevOps by creating dedicated nearshore and offshore teams that quickly adapt and push the innovation of our partners.
 
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+Enterprises and startups have been partnering with OOQIA because of the exceptional success in incorporating full stack development team with fast adapting methodologies (Scrum, Kanban, Scrumban). OOQIA’s expertise has been critical, for example, when introducing technology in order to reduce time-to-market and increase user engagement rates, thanks to our agile team.
+
+### Location, Location, Location
+
+Thanks to our headquarter in Nicaragua and our global representation in Spain, Mexico, Guatemala, and Costa Rica OOQIA has been actively collaborating with a diverse group of key partners in several industries such as: e-commerce, supply chain management, data warehouse management, serious learning apps, geographical information systems (GIS), search engine optimization (SEO), real estate, and many more.
+
+With the collaboration of the best local talent from Nicaragua and in conjunction with every partner, OOQIA has continuously built and trained every team to better fit the client’s and end user’s needs. The developer community has been growing with high retention rate that maximizes the ROI of our partners and add constant value to their products.
