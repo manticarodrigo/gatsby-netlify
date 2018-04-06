@@ -8,9 +8,9 @@ const Navbar = () => (
   <nav className="navbar is-transparent">
     <div className="container">
       <div className="navbar-brand">
-        <Link to="/" className="navbar-item">
+        <Link to="/" className="navbar-item" alt="Home">
           <figure className="image">
-            <img src={logo} alt="Ooqia" style={{ width: '88px' }} />
+            <img src={logo} alt="OOQIA" style={{ width: '88px' }} />
           </figure>
         </Link>
       </div>
