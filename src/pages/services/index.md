@@ -11,19 +11,19 @@ description: >-
   the satisfaction of our customers.
 intro:
   blurbs:
-    - image: /img/code.svg
+    - image: /img/software.png
       text: >-
         OOQIA helps you develop software based solutions that generate value
         with greater user loyalty.
-    - image: /img/thumbs-up.svg
+    - image: /img/bugs.png
       text: >-
         Focused on facilitating and improving our customers competitiveness and
         time-to-market goals.
-    - image: /img/pencil-alt.svg
+    - image: /img/uiux.png
       text: >-
         We design in relation-to-execution, while utilizing all the cutting edge
         capabilities of modern technology.
-    - image: /img/mobile-alt.svg
+    - image: /img/app.png
       text: >-
         For the development process we apply an iterative process allowing for a
         more flexible and efficient workflow.
